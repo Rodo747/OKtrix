@@ -1,0 +1,12 @@
+flask==3.0.0
+flask-socketio==5.3.5
+flask-cors==4.0.0
+python-socketio==5.10.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+mediapipe==0.10.9
+pyautogui==0.9.54
+pycaw==20230407
+psutil==5.9.6
+pywin32==306          
+comtypes==1.4.1       
