@@ -32,10 +32,6 @@ Main components include:
 - A **gesture-to-action mapping layer**  
 - **On-device processing** to ensure low latency  
 
-All computation runs locally, following the principle:
-
-\\( \text{Low Latency} + \text{Privacy} = \text{Better UX} \\)
-
 ---
 
 ## Challenges we ran into
