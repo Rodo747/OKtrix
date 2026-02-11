@@ -1,4 +1,4 @@
-#OKtrix
+# OKtrix
 ## Inspiration
 
 **Technology is powerful, but often feels cold and mechanical.**  
